@@ -1,4 +1,4 @@
-
+#Regression Analisys
 import math
 n = int(input("Type the number of values: "))
 x = []
